@@ -5,12 +5,11 @@
   - Arthur Pierre de Aguiar da Silva
   - Suellen Carolynne Queiroz dos Santos
   - Rafael Eliaquim Ramos Lima
-    
----
+
+## Sobre
 
 Uma calculadora com 20 funções, projetada a partir de um fluxograma do Flowgorithm. O Sistema possui uma menu interativo oferecendo 20 funções matemáticas organizadas e estruturadas.
 
----
 
 # Funcionalidades
 - Operações Básicas:
@@ -40,7 +39,6 @@ Uma calculadora com 20 funções, projetada a partir de um fluxograma do Flowgor
 - IMC
   - 20.IMC
   - 
----
 
 # Fluxograma
 

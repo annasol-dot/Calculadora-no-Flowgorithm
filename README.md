@@ -1,7 +1,5 @@
 # Calculadora-no-Flowgorithm
 
----
-
 ## Alunos:
   - Anna Clara Damasceno de Almeida 
   - Arthur Pierre de Aguiar da Silva
